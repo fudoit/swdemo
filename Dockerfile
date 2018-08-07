@@ -1,2 +1,2 @@
 FROM busybox
-COPY target /
+COPY target /swdemo
